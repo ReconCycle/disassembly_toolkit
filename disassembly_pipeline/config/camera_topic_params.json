@@ -1,0 +1,16 @@
+{
+  "basler": {
+            "location": "table_vision",
+            "image_topic": "/basler/image_rect_color/compressed",
+            "detections_topic": "/vision/basler/detections",
+            "activate_vision_topic": "/vision/basler/enable",
+            "process_img_service_topic": "/vision/basler/process_img"
+	    },
+  "realsense": {
+                "location": "panda_2_wrist",
+                "image_topic": "/realsense/color/image_raw/compressed",
+                "detections_topic": "/vision/realsense/detections",
+                "activate_vision_topic": "/vision/realsense/enable",
+                "process_img_service_topic": "/vision/realsense/process_img"
+		}
+}

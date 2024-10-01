@@ -1,0 +1,12 @@
+Tool-end toolchanger + softhand 30deg adapter(so its 90deg to the MOVE buttons, ie commonsense direction) + softhand itself 
+950 g
+
+
+HERE WE DO NOT TAKE INTO ACCOUNT robot-side TC!
+
+Center of gravity :
+
+
+x-axis: 10 cm almost exactly. 
+y-axis : 0 cm (centered)
+z_axis : 4.5 cm

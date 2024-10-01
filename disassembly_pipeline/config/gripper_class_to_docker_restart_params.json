@@ -1,0 +1,6 @@
+{
+  "VariableStiffnessGripper": {
+    "docker_name": "ifam2024-softclaw_client-1",
+    "user_and_ip": "panda@10.20.0.22.local"
+  }
+}

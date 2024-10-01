@@ -1,0 +1,171 @@
+config_name: empty
+hardware_type: raspberry 4
+pin_configs:
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 1
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 2
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 3
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 4
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 5
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 6
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 7
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 8
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 9
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 10
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 11
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty, PWM]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 12
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty, PWM]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 13
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 14
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 15
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 16
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 17
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty, PWM]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 18
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty, PWM]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 19
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 20
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 21
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 22
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 23
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 24
+  service_name: ''
+- actual_config: DigitalInput
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 25
+  service_name: 'read_nekineki'
+- actual_config: DigitalOutput
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 26
+  service_name: 'realsense/alphapose/enable'
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 27
+  service_name: ''
+- actual_config: empty
+  available_config: [DigitalInput, DigitalOutput, empty]
+  config_name: ''
+  config_parameters: ''
+  pin_number: 28
+  service_name: ''

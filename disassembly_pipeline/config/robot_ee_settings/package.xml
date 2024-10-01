@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>robot_ee_settings</name>
+  <version>0.2.0</version>
+  <description>Robot end-effector configurations</description>
+  <author email="gaspersavle13@gmail.com">Gasper Savle</author>
+  <maintainer email="gaspersavle13@gmail.com">Gasper Savle</maintainer>
+  <maintainer email="boris.kuster@ijs.si">Boris Kuster</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>rospy</exec_depend>
+  <export>
+  </export>
+</package>

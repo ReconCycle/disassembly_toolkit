@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.swp
+*.ipynb
+.ipynb_checkpoints
+.vscode
+bags
+recordings

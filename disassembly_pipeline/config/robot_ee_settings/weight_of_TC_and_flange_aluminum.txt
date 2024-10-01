@@ -1,0 +1,11 @@
+Robot flange aluminum adapter + robot side toolchanger: 
+280 g
+
+CoG:
+x-axis : 0 cm
+y-axis : 0 cm
+z-axis: 1.9 cm
+
+
+Dimension z 35mm
+

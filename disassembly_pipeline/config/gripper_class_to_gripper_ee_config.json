@@ -1,0 +1,4 @@
+{
+  "panda_1": {},
+  "panda_2": {"VariableStiffnessGripper": "config/robot_ee_settings/tc_and_vsg.json"}
+}
