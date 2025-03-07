@@ -232,7 +232,7 @@ class DMP(object):
         self.x_min = np.exp(-self.a_x)
 
         # First sample equals y0
-        traj = [y]
+        traj = [tupple(y)]
         t = [0]
 
         # Decode loop
